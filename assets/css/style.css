@@ -294,7 +294,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/Banner.jpg") top center;
   background-size: cover;
   position: relative;
   padding: 0;
@@ -330,7 +330,8 @@ h6 {
 }
 
 #hero h1 span {
-  color: #810d0d;
+  color: #9e0d0d;
+  text-shadow: #681616;
 }
 
 #hero h2 {
@@ -532,7 +533,8 @@ section {
 }
 
 .about .about-img img {
-  max-width: 100%;
+  width: 550px;
+  height: 450px;
   border: 4px solid rgba(255, 255, 255, 0.2);
   position: relative;
 }
